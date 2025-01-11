@@ -202,4 +202,4 @@ npm install
 For any issues or suggestions, feel free to reach out:
 
 - **Author:** Gaurav Singh  
-- **Email:** your_email@gmail.com
+- **Email:** gauravsingh1892000@gmail.com
